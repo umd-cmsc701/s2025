@@ -1,9 +1,7 @@
 instructors:
   - name: Rob Patro
     profile_pic: /_images/pp/rob.jpg
-    webpage: http://www.robpatro.com
 
 teaching_assistants:
-  - name: Noor Pratap Singh
-    profile_pic: /_images/pp/noor.jpg
-    #webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+  - name: Ali Ahmadi 
+    profile_pic: /_images/pp/ali.jpg
