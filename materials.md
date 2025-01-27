@@ -22,9 +22,14 @@ It is worth noting that this is a CMSC PhD qualifying course.  Among other thing
 
 If there are aspects of these topics with which you are not comfortable, it is worthwhile to try and improve your background on these topics.  Below are listed resources for the general CS background assumed that should cover these topics at a level sufficient for what will be assumed in this course.
 
+## Links to other websites for this course
+
+ * [Gradescope](https://www.gradescope.com/courses/969129)
+ * [Piazza](https://piazza.com/umd/spring2025/cmsc701)
+
 ## Logistics
 
-* Course Website : [https://umd-cmsc701.github.io/s2024](https://umd-cmsc701.github.io/s2024)
+* Course Website : [https://umd-cmsc701.github.io/s2025](https://umd-cmsc701.github.io/s2025)
 * Instructor : Rob Patro
 * Instructor office hours: by appointment
 * Class location: IRB 2107
@@ -41,7 +46,7 @@ If there are aspects of these topics with which you are not comfortable, it is w
 
  * In general, _this website_ is the place to look for course content and course news.  Any content that is private / restricted (e.g. grades) will be made available on the ELMS page for this course.
  * Assignment announcements and deadlines will be posted on the [ELMS page for this course](https://umd.instructure.com/courses/1338959), and grading information will be made available there.
- * The course also has a Piazza page for discussions.  Please register for this course on Piazza [here](https://piazza.com/umd/spring2024/cmsc701).
+ * The course also has a Piazza page for discussions.  Please register for this course on Piazza [here](https://piazza.com/umd/spring2025/cmsc701).
 
 **Textbook(s)**: We will be making use of, in part, a new textbook by [Carl Kingsford](https://kingsfordlab.cbd.cmu.edu/). A PDF of this text is provided behind authentication via ELMS. As this text is a (copyrighted) work in progress (near-final draft), and since it is kindly being provided to us free of charge for the purpose of instruction and feedback for this course, please do not distribute or share this text via any public medium. Other resources, where relevant, will be provided via links on the course website, accompanying the slides or lecture notes. However, this is a graduate-level course, and you should _absolutely_ seek out other sources explaining these topics from different angles, using different notations and examples, etc. Of course, you should reach out to me if you are having trouble understanding a topic in the course and have been unable to become comfortable with it from the lectures and other sources. Here are some (non-required) textbooks that I personally recommend as references for different topics:
 
