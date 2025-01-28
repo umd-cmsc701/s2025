@@ -5,7 +5,7 @@ title: 'Assignment #0 - Becoming familiar with Gradescope'
 #pdf: /static_files/assignments/asg.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
-published: false
+published: true
 due_event: 
     type: due
     date: 2025-02-11T4:00:00+4:30
