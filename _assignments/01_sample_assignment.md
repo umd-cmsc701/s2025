@@ -22,12 +22,16 @@ A program that parses valid (possibly multi-line) FASTA files, computes certain 
 
 ## Overall structure
 
-You will submit your assignment as a `tarball` named `CMSC701_A0.tar.gz`.  When this tarball is expanded, it should create a folder named `CMSC701_A0`.  The details of how you structure your "source tree" are up to you, but recommendations are below.
+You will submit your assignment as a `tarball` named `CMSC701_A0.tar.gz`.  When this tarball is expanded, it should create a folder named `CMSC701_A0`.  The details of how you structure your "source tree" are up to you, but the following is required:
 
-  
  * There should be a `README.md` file in the top level directory.  This README file should contain the following information.
      
      - What resources did you consult in working on this assignment (view this as a form of citation; you shouldn't _copy_ code directly from anywhere in your assignment, but if you consulted other sources please list them here).
+
+ * There should be a `build.sh` file at the top level that, when run, will produce an executable file called `fasta_stats`. This `build.sh` file may directly build the executable, or may invoke another build system (e.g. call `make`, or `cargo`, or `go` etc.).
+
+ * After `build.sh` is invoked, there should be a file called `fasta_stats` that complies with the behavior specified below.
+
 
 ### How to create the proper structure for your project
 
