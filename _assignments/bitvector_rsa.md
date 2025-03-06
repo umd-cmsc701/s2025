@@ -1,25 +1,25 @@
 ---
 type: assignment
-date: 2024-03-17
+date: 2025-03-06
 title: 'Bitvector Rank and Select & Sparse Array'
-published: false
+published: true
 due_event: 
     type: due
-    date: 2024-04-09 23:59:00
+    date: 2025-03-27 23:59:00
     description: 'Assignment Due'
 ---
 
 # Overview: Implementing bitvector rank and select, and applying them to a sparse array
 
-This assignment is due by **11:59PM ET on April 9**.  It consists of 4 executables, which center around bitvector rank select and access, as well as putting this data structure to use to represent a sparse array.  
+This assignment is due by **11:59PM ET on March 27**.  It consists of 4 executables, which center around bitvector rank select and access, as well as putting this data structure to use to represent a sparse array.  
 The programming tasks build upon each other, and so should be implemented **in order**. 
 
 ## Overall structure
 
-You will submit your assignment as a tarball named `CMSC701_A1.tar.gz`.  When this tarball is expanded, it should create a
-**single** folder named `CMSC701_A1`.  This folder must be created in the directory where the decompression (i.e. `tar xzvf`) is done, and must not be nested inside any other folders. The details of how you structure your "source tree" are up to you, but the following **must** hold (to enable proper automated testing of your programs).
+You will submit your assignment as a tarball named `CMSC701_A2.tar.gz`.  When this tarball is expanded, it should create a
+**single** folder named `CMSC701_A2`.  This folder must be created in the directory where the decompression (i.e. `tar xzvf`) is done, and must not be nested inside any other folders. The details of how you structure your "source tree" are up to you, but the following **must** hold (to enable proper automated testing of your programs).
 
- * There should be a script at the top-level of `CMSC701_A1` called `build.sh`.  This should do whatever is necessary to create 4 executables at the top level (one called `rsbuild` and one called `rsquery_rank`, one called `rsquery_select`, and one called `sarray`).  If you're comfortable with Makefiles, this can just call `make`, or it could simply run the commands necessary to compile your programs and copy them to the top-level directory.  You can assume this script is run in a `bash` shell.
+ * There should be a script at the top-level of `CMSC701_A2` called `build.sh`.  This should do whatever is necessary to create 4 executables at the top level (one called `rsbuild` and one called `rsquery_rank`, one called `rsquery_select`, and one called `sarray`).  If you're comfortable with Makefiles, this can just call `make`, or it could simply run the commands necessary to compile your programs and copy them to the top-level directory.  You can assume this script is run in a `bash` shell.
  
  * There should be a README.md file in the top level directory.  This README file should contain the following information.
      
