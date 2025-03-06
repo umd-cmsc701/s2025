@@ -29,6 +29,8 @@ You will submit your assignment as a tarball named `CMSC701_A2.tar.gz`.  When th
 
 **Turnin** : The assignment turnin will be handled using Gradescope.  
 
+**Sample Data** : Sample data with expected input and output is available [here](https://github.com/umd-cmsc701/project_2_sample_data).
+
 ## Task 0 — Constructing a rank-enabled bitvector.
 
 Implement a succinct, constant-time, bit-vector rank operation.  The exact details of the design and implementation are up to you, but you should implement Jacobson's rank, as we discussed in class.
