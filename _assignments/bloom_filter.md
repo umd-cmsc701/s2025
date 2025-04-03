@@ -1,11 +1,11 @@
 ---
 type: assignment
-date: 2024-03-17
+date: 2024-04-03
 title: 'Building and Querying a Bloom Filter'
-published: false
+published: true
 due_event: 
     type: due
-    date: 2024-04-30 23:59:00
+    date: 2025-04-17 23:59:00
     description: 'Assignment Due'
 ---
 
@@ -28,6 +28,10 @@ You will submit your assignment as a tarball named `CMSC701_A2.tar.gz`.  When th
      - What resources did you consult in working on this assignment (view this as a form of citation; you shouldn't _copy_ code directly from anywhere in your assignment, but if you consulted other sources please list them here).
 
 **Turnin** : The assignment turnin will be handled using Gradescope.  
+
+## Sample data
+
+Sample data for testing your implementation locally is available [here](https://github.com/umd-cmsc701/bloom_filter_test_data).
 
 ## Task 1 — Constructing a Bloom Filter.
 
