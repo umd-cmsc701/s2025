@@ -130,12 +130,12 @@ The following is a planned schedule of the material we will cover in the course,
 - Week of April 7.
   - Unitigs, simplitigs and spectrum preserving string sets
   - Large-scale sequence search; Sequence Bloom Tree and variants
-  - Final project progress report due
 
 - Week of April 14.
   - Large-scale sequence search (continued)
   - Mantis, color set compression and the counting dBG
-  
+  - Final project progress report due
+
 - Week of April 21.
   - Single-cell transcriptome profiling, barcoding, UMI-resolution
   - Rob away April 18
