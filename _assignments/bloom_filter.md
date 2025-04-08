@@ -16,10 +16,10 @@ Bloom filter and the other for querying the Bloom filter.
 
 ## Overall structure
 
-You will submit your assignment as a tarball named `CMSC701_A2.tar.gz`.  When this tarball is expanded, it should create a
-**single** folder named `CMSC701_A2`.  This folder must be created in the directory where the decompression (i.e. `tar xzvf`) is done, and must not be nested inside any other folders. The details of how you structure your "source tree" are up to you, but the following **must** hold (to enable proper automated testing of your programs).
+You will submit your assignment as a tarball named `CMSC701_A3.tar.gz`.  When this tarball is expanded, it should create a
+**single** folder named `CMSC701_A3`.  This folder must be created in the directory where the decompression (i.e. `tar xzvf`) is done, and must not be nested inside any other folders. The details of how you structure your "source tree" are up to you, but the following **must** hold (to enable proper automated testing of your programs).
 
- * There should be a script at the top-level of `CMSC701_A2` called `build.sh`.  This should do whatever is necessary to create an executable at the top level called `bfilt`.  If you're comfortable with Makefiles, this can just call `make`, or it could simply run the commands necessary to compile your programs and copy them to the top-level directory.  You can assume this script is run in a `bash` shell.
+ * There should be a script at the top-level of `CMSC701_A3` called `build.sh`.  This should do whatever is necessary to create an executable at the top level called `bfilt`.  If you're comfortable with Makefiles, this can just call `make`, or it could simply run the commands necessary to compile your programs and copy them to the top-level directory.  You can assume this script is run in a `bash` shell.
  
  * There should be a README.md file in the top level directory.  This README file should contain the following information.
      
