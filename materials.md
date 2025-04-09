@@ -138,7 +138,6 @@ The following is a planned schedule of the material we will cover in the course,
 
 - Week of April 21.
   - Single-cell transcriptome profiling, barcoding, UMI-resolution
-  - Rob away April 18
 
 - Week of April 28.
   - Downstream (computational) challenges in single-cell analysis
