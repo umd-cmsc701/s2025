@@ -5,22 +5,22 @@ title: "Interim project report"
 #pdf: /static_files/assignments/asg.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
-published: false 
+#published: true
 due_event: 
     type: due
-    date: 2024-04-11T4:00:00+4:30
+    date: 2025-04-21T11:59:00
     description: 'Assignment due'
 ---
 
 # Overview
 
-The main purpose of the interim project report is to take note of what you've accomplished 
-in working on your final project so far, what you hope to do through the end of the semester,
+The main purpose of this report is to take note of what you've accomplished 
+in working on your final project so far, what you hope to finish before the final deadline,
 what relevant literature you've identified, and what key question you have.
 
 ## Structure
 
-Your interm report should be *short* (ideally 1 page, and no more than 2).  It should contain the 
+Your report should be *short* (ideally 1 page, and no more than 2).  It should contain the 
 following sections.  **The top of the document should list all members of your team, but you should 
 elect only one member of your team to turn in this report** (i.e. there should be one interm report 
 per-team, not per-student).
@@ -38,7 +38,7 @@ and data collection.
 List the 5 most relevant pieces of literature or resources you have found.  These can be academic papers, relevant
 software libraries, or a mix of both.  
 
-Describe the next steps you will take in your project. What do you hope to have accomplished in the next 2 weeks?
+Describe the next steps you will take in your project. What do you hope to have accomplished by the end of the semester?
 
 ### Most relevant question
 
