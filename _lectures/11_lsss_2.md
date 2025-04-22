@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-04-15T0:00:00
+date: 2025-04-15T0:00:00
 title: Large Scale Sequence Search (pt. 2)
 tldr: "Release the Mantis"
 thumbnail: /static_files/presentations/lec.jpg
