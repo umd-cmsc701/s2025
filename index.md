@@ -2,6 +2,10 @@
 layout: home
 ---
 
+**Final project presentation signup**: The Google Sheet for final project presentation signup is located [here](https://docs.google.com/spreadsheets/d/1BXlAuQbP-wSOmHFK-FIO5GAUUOUpTnUA6MaVBN4B1Bc/edit?usp=sharing).
+Note that the presentations will take place mostly next week (May 6 and May 8), though, because of the number of groups, there are also 2 slots on the last day 
+of class (May 13).  The signup is first come/first serve.
+
 **Final project ideas**: You can find a list of potential project ideas [here](https://hackmd.io/@PI7Og0l1ReeBZu_pjQGUQQ/H1Z8SClcJg).  These projects are ideas created by me and my students, and collaborators, and the writeup contains a brief description of the 
 main idea and goal of each project.  In order to work on these, you'll first want to do some background reading on the existing work, and then start thinking about collecting relevant 
 data for testing.  However, in each of these cases, the idea you'll be exploring is already reasonably-well laid out. **On the other hand**, you may choose to propose your _own_ project.
