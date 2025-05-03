@@ -5,7 +5,7 @@ title: "Final Project Report"
 #pdf: /static_files/assignments/asg.pdf
 #attachment: /static_files/assignments/asg.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
-#published: true
+published: true
 due_event: 
     type: due
     date: 2025-05-19
