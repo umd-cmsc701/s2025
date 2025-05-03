@@ -8,7 +8,7 @@ title: "Interim project report"
 #published: true
 due_event: 
     type: due
-    date: 2025-04-21T11:59:00
+    date: 2025-04-21  23:59:00
     description: 'Assignment due'
 ---
 

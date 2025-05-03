@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2024-04-03
+date: 2025-04-03
 title: 'Building and Querying a Bloom Filter'
 published: true
 due_event: 

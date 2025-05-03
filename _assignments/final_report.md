@@ -2,9 +2,10 @@
 type: assignment
 date: 2025-05-02
 title: "Final Project Report"
+published: true
 due_event: 
     type: due
-    date: 2025-05-19
+    date: 2025-05-19 23:59:00
     description: 'Assignment due'
 ---
 
