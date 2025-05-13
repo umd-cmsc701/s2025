@@ -150,13 +150,13 @@ The following is a planned schedule of the material we will cover in the course,
   - Course wrapup
   - May 13th is last day of class
 
-- Fri May 15.
+- Fri May 16.
   - Final exam available
 
-- Mon May 18.
+- Mon May 19.
   - Final exam due by 11:59PM
 
-- Thurs May 21.
+- Wed May 21.
   - Final project reports due by 11:59PM
 
 ## Course Resources
